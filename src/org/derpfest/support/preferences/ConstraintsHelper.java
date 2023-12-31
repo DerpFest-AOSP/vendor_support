@@ -42,7 +42,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-import com.android.internal.derp.hardware.LineageHardwareManager;
+import org.derpfest.hardware.LineageHardwareManager;
 import org.derpfest.support.R;
 
 
