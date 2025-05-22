@@ -32,6 +32,13 @@
         <attr name="colorgroupname" format="string" />
     </declare-styleable>
 
+    <!-- CardviewPreference -->
+    <declare-styleable name="CardviewPreference">
+        <attr name="cardBackgroundColor" format="color" />
+        <attr name="cardCornerRadius" format="dimension" />
+        <attr name="cardElevation" format="dimension" />
+    </declare-styleable>
+
     <!-- Value to pass to callback when restore button is pressed -->
     <declare-styleable name="ColorPreference">
         <attr name="defaultColorValue" format="integer" />
